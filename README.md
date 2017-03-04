@@ -1,0 +1,2 @@
+# BareSocket
+A networking library
